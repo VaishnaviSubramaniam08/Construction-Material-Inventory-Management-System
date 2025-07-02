@@ -66,7 +66,5 @@ python main.py
 🤝 Contributions
 Feel free to fork and enhance the system! PRs are welcome.
 
-👨‍💻 Author
-Vaishnavi Subramaniam
 🔗 GitHub: https://github.com/VaishnaviSubramaniam08
 
