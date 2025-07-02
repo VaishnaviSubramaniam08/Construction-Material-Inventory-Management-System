@@ -63,6 +63,19 @@ DATABASE = 'construction_inventory'
 python main.py
 
 
+📸 Screenshots
+![Dahboard Page](https://github.com/user-attachments/assets/cc4a8cdd-08df-492e-bd08-4bba8e2fd89e)
+
+![Employee Dahboard](https://github.com/user-attachments/assets/2366aa9e-0190-4164-952c-2da0a05664ed)
+
+![Supplier Dashboard](https://github.com/user-attachments/assets/becdc54e-3433-4960-a881-aa32a92a87c2)
+
+![Category Dahboard](https://github.com/user-attachments/assets/6e20e79b-de75-41ed-a0a8-c12d214e3d74)
+
+![Sales Page](https://github.com/user-attachments/assets/3d40c320-951b-4961-bb74-eaa6f61e98d6)
+
+
+
 🤝 Contributions
 Feel free to fork and enhance the system! PRs are welcome.
 
